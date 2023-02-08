@@ -1,0 +1,1 @@
+در این پکیج شما توابع سازنده controller, service را فراخوانی می کنید و آبجکت های usecase, repository را به controller, service می دهید و داخل یک تابع راه اندازه به نام Run قرار می دهید.

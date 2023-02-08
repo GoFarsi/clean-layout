@@ -1,0 +1,1 @@
+داخل پوشه serviceX فایل main به همراه command, subcommand ها قرار میگیرد.

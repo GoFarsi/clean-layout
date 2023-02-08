@@ -1,0 +1,1 @@
+در این پوشه فایل هایی نظیر Dockerfile, docker-compose.yml, x.service قرار میگیرد.
