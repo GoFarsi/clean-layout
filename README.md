@@ -14,6 +14,7 @@ C --> F[service]
 E --> G[usecase]
 F --> G[usecase]
 
+G --> J[external service]
 G --> H[repository]
 H --> |CRUD get/insert/update/delete| I[fa:fa-database Database]
   
