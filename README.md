@@ -11,8 +11,8 @@ A --> D[graph server]
 
 B --> E[controller]
 C --> F[service]
-E --> G[usecase (business logic)]
-F --> G[usecase (business logic)]
+E --> G[usecase - business logic]
+F --> G[usecase - business logic]
 
 G --> J[external service]
 G --> H[repository]
